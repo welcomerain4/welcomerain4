@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### 리뷰 데이터로 찾는 최고의 음식점 - matZipCloud
+![image](https://github.com/user-attachments/assets/07b1c53d-dd49-4ea2-95df-592fbfd7149f)
+- https://github.com/matzipCloud/MatzipInsight
+- 네이버 리뷰를 크롤링하여 리뷰의 주요 키워드를 워드클라우드로 제공
+
+### 게임 사전예약 페이지 만들어보기 
+![876shots_so](https://github.com/user-attachments/assets/bd225c99-86e3-4746-8fee-6e894add2668)
+- https://github.com/baesh1234/team2_project1
+- 이메일 인증, 댓글 기능 등을 구현한 사전예약 페이지 구현
 <!--
 **welcomerain4/welcomerain4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
